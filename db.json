@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "dashboard": {
+    "likes": "20",
+    "followers": "200",
+    "following": "230",
+    "posts": "12"
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": " Event 1 ",
+      "description": " Description 1 ",
+      "category": "sports",
+      "date": " April 25 "
+    },
+    {
+      "id": 2,
+      "title": " Event 2 ",
+      "description": " Description 2 ",
+      "category": "sports",
+      "date": " April 25 "
+    },
+    {
+      "id": 3,
+      "title": " Event 3 ",
+      "description": " Description 3 ",
+      "category": "politics",
+      "date": " April 25 "
+    },
+    {
+      "id": 4,
+      "title": " Event 4 ",
+      "description": " Description 4 ",
+      "category": "politics",
+      "date": " April 25 "
+    },
+    {
+      "id": 5,
+      "title": " Event 5 ",
+      "description": " Description 5 ",
+      "category": "sports",
+      "date": " April 25 "
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "category": "sports",
+      "title": "Pakistan won against India",
+      "description": "This is a great news that Pak have won the match against India"
+    },
+    {
+      "id": 2,
+      "category": "politics",
+      "title": "Pakistan is facing flood situation nowadays",
+      "description": "Due to heavy rain fall, it is sad to see Pakistan facing flood situation"
+    },
+    {
+      "id": 3,
+      "category": "sports",
+      "title": "Srilanka won against Afghanistan",
+      "description": "This is a great news that SL have won the match against Afghanistan"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
