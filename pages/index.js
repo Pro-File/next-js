@@ -32,6 +32,10 @@ export default function Home() {
       <Link href="/comments">
         <a>comments</a>
       </Link>
+      <div></div>
+      <Link href="/cars">
+        <a>Cars (Image Component)</a>
+      </Link>
     </div>
   );
 }
