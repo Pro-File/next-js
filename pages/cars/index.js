@@ -7,6 +7,7 @@ const Cars = () => {
       {[1, 2, 3, 4].map((item) => {
         return (
           <Image
+            key={item}
             width={"480"}
             height={"280"}
             alt="car"
