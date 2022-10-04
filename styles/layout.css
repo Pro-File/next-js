@@ -1,0 +1,23 @@
+.layout-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90px;
+    background: lightseagreen;
+    color: #FFFFFF;
+}
+
+.layout-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80px;
+    background: lightslategray;
+    color: #FFFFFF;
+}
+
+.layout-content {
+    min-height: 70vh;
+}
